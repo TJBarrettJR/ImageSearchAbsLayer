@@ -27,12 +27,10 @@ Example output:
         [{
           "url":"https://img.scoop.it/f-tKCNgJWPoGzbrK5LCQhTl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
           "snippet":"Lolcats: Ohai hooman - Lolcats - Funny Pictures...",
-          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnKqxoHtHn8b0dYvy4VKUKWZ3obuPs3O2agntOwGzNscV-mJghnsMEQgE",
           "context":"http://www.scoop.it/t/pictures/p/1665736655/lolcats-ohai-hooman-lolcats-funny-pictures-of-cats-i-can-has"
         },{
           "url":"http://i0.kym-cdn.com/photos/images/newsfeed/000/010/014/lolcats-funny-pictures-leroy-jenkins.jpg",
           "snippet":"Image - 10014] | LOLcats | Know Your Meme",
-          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-vJ6IUBomImDMpUeOIHrBMwbi6f0fbK4KXP6HnFVV8CybuSi-n6Ofyo",
           "context":"http://knowyourmeme.com/photos/10014-lolcats"
         }]
 
